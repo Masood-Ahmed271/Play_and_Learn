@@ -1,0 +1,134 @@
+1.
+    Galvanic cells are also named as
+    (a) electrolytic cells 
+    (b) battery cells 
+    (c) Daniel cells 
+    (d) John cells  
+**
+2.
+    On an industrial scale, sodium metal is prepared by electrolysis of fused
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+3.
+    Electrolysis of brine produces
+    (a) chlorine gas 
+    (b) hydrogen gas 
+    (c) sodium hydroxide
+    (d) all of above 
+**
+4.    
+    A reactant containing the element that is oxidized is called
+    (a) reducing agent 
+    (b) oxidizing agent 
+    (c) hydrogen 
+    (d) sublime 
+**
+5.
+    By losing one or two electrons the atoms of metal are
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+6.
+    In chromium plating, few drops of Sulphuric acid are added to the electrolyte to prevent
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+7.
+    The electrodes used in the production of sodium metal are
+    (a) iron cathode and graphite anode
+    (b) sodium cathode and carbon anode 
+    (c) aluminum cathode and fluoride anode 
+    (d) aluminum cathode and sodium anode
+**
+8.
+    In thermal power stations, carbon atoms undergo oxidation to form
+    (a) CO2
+    (b) CO 
+    (c) H2O 
+    (d) O2
+**
+9.
+    Electrolytes convert electricity in 
+    (a) solid state
+    (b) liquid state 
+    (c) gaseous state 
+    (d) plasma state
+**
+10.
+    A concentrated aqueous solution of sodium chloride is called 
+    (a) aqueous solution
+    (b) salt solution
+    (c) brine 
+    (d) lemonade
+**
+11.
+    Rusting of iron occurs due to
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+12.
+    The element reduced in following reaction 2Ca + O2 -> 2CaO is
+    (a) Ca
+    (b) O2
+    (c) CaO 
+    (d) none of above 
+**
+13.
+    Which of the following statements is(are) true for all voltaic (or galvanic) cells? 
+    (I) Reduction occurs at the cathode. 
+    (II) The anode gains mass during discharge (note: this means operation of the cell.) 
+    (III) The voltage is less than or equal to zero.
+
+    (a) only III 
+    (b) only II 
+    (c) only I 
+    (d) II and III 
+    (e) I, II, and III
+**
+14
+    In the standard notation for a voltaic cell, the double vertical line "||" represents: 
+    (a) a phase boundary 
+    (b) gas electrode 
+    (c) a wire (metal) connection 
+    (d) a salt bridge 
+    (e) a standard hydrogen electrode 
+**
+15.
+    The charge required for the reduction of 1 mol of MnO4– to MnO2 is
+    (a) 1 F
+    (b) 3 F
+    (c) 5 F
+    (d) 6 F
+**
+16.
+    NH4NC3 is used in salt bridge because
+    (a) it forms a jelly like material with agar-agar.
+    (b) it is a weak electrolyte.
+    (c) it is a good conductor of electricity.
+    (d) the transport number of NH4+ and NO3– ions are almost equal.
+**
+17.
+    The reaction, 3ClO– (aq) → ClO3 (aq) + 2Cl– (aq) is an example of
+    (a) Oxidation reaction
+    (b) Reduction reaction
+    (c) Disproportionation reaction
+    (d) Decomposition reaction
+**
+18.
+    Which of the following element act as inert electrode
+    (a) Cu
+    (b) Ag 
+    (c) Pt
+    (d) None 
+**
+19.
+    Molten NaCl conducts electricity due to the presence of
+    (a) Free electrons 
+    (b) Free molecules 
+    (c) Atoms of Na and Cl
+    (d) Free ions 
+**
+20.
+    The degree of dissociation of week electrolyte increases as 
+    (a) Pressure increases 
+    (b) Dilution decreases 
+    (c) Dilution increases
+    (d) None
+**

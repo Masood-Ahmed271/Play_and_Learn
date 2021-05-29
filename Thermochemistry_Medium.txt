@@ -1,0 +1,135 @@
+1.
+    Most of thermodynamic parameters are
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+2.
+    ΔH of a system can be calculated by which of the following relationship
+    (a) q=m x s x ΔT
+    (b) q=ΔE
+    (c) q=m x v x ΔT
+    (d) q = pv
+**
+3.
+    Change in enthalpy (H) of a system can be calculated by the following relationship
+    (a) ΔH=ΔE+PΔV
+    (b) ΔH=ΔE-PV
+    (c) ΔH=ΔE-q
+    (d) ΔH=ΔE+q
+**
+4.
+    Which of the following is correct
+    (a) qp>qv
+    (b) ΔE < ΔH
+    (c) ΔE>ΔH
+    (d) Both a & b
+**
+5.
+    Two fundamental ways to transfer energy are
+    (a) Pressure and temperature
+    (b) Pressure and volume
+    (c) Heat and work
+    (d) Heat and volume
+**
+6.
+    Which of the following processes has always +H = -ve
+    (a) Formation of compound
+    (b) Combustion
+    (c) Dissolution of the ionic compound
+    (d) Dilution of a solution
+**
+7.
+    Enthalpy change can be
+    (a) Calculated by Hess law
+    (b) Can be measured by a calorimeter
+    (c) Both a and b
+    (d) None
+**
+8.
+    If there is interconversion of solid and liquid states then
+    (a) ΔV = 0
+    (b) ΔH= ΔE
+    (c) ΔH > ΔE
+    (d) Both A & B
+**
+9.
+    In order to determine Δhlatt of an ionic compound which is correct relationship
+    (a) Δhlatt = ΔHf – ΔHx
+    (b) Δhlatt = ΔHf + ΔHx
+    (c) Δhlatt = ΔHa + ΔHv
+    (d) Δhlatt = ΔHf – Δhsol
+**
+10. 
+    Hess law can be applied to determine
+    (a) ΔHf
+    (b) ΔHlatt
+    (c) ΔHcomb
+    (d) All of the above
+**
+11.
+    How much heat is absorbed in the complete reaction of 3.00 grams of SiO2 with excess carbon in the reaction below? Ho for the reaction is +624.7 kJ.
+    SiO2(s) + 3C(s) SiC(s) + 2CO(g)
+    (a) 1.13 x 105 kJ 
+    (b) 5.06 kJ 
+    (c) 1.33 x 104 kJ 
+    (d) 31.2 kJ
+**
+12.
+    Which statement is false? 
+    (a) The thermodynamic quantity most easily measured in a "coffee cup" calorimeter is H. 
+    (b) No work is done in a reaction occurring in a bomb calorimeter. 
+    (c) H is sometimes exactly equal to E. 
+    (d) H is equal to E for the reaction: 2H2(g) + O2(g) 2H2O(g)
+**
+13.
+    Which statement is incorrect? 
+    (a) At constant pressure, H = E + PV 
+    (b) The thermodynamic symbol for entropy is S.
+    (c) For an endothermic process, H is negative.  
+    (d) If the work done by the system is greater than the heat absorbed by the system, E is negative.
+**
+14.
+    The standard heat of combustion of ethanol, C2H5OH, is 1372 kJ/mol ethanol. How much heat (in kJ) would be liberated by completely burning a 20.0 g sample? 
+    (a) 686 kJ 
+    (b) 597 kJ 
+    (c) 519 kJ 
+    (d) 469 kJ
+**
+15.
+    Change in enthalpy for reaction, 2H2O2(l) → 2H2O(l) + O2(g) if the heat of formation of H2O2(l) and H2O(l) are -188 and -286 kJ/mol respectively is
+    (a) -196 kJ/mol
+    (b) + 196 kJ/mol
+    (c) +948 kJ/mol 
+    (d) -948 kJ/mol
+**
+16.
+    At absolute zero, the entropy of a perfect crystal is zero. This is........... of thermodynamics.
+    (a) the first law
+    (b) second law
+    (c) third law
+    (d) none of these
+**
+17.
+    At constant pressure and temperature, the direction of any chemical reaction is one where the...... decrease.
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+18.
+    Entropy decreases during:
+    (a) crystallization of sucrose from solution
+    (b) rusting of iron
+    (c) melting of ice
+    (d) vaporization of camphor
+**
+19.
+    In the reaction, ΔH and ΔS both are positive. In which of the following cases, the reaction would not be spontaneous?
+    (a) ΔH>TΔS
+    (b) ΔS=ΔH/T
+    (c) ΔH=TΔS
+    (d) All of these
+**
+20.
+    When an ideal gas is compressed adiabatically and reversibly, the final temperature is:
+    (a) higher than the initial temperature
+    (b) lower than the initial temperature
+    (c) the same as the initial temperature
+    (d) dependent on the rate of compression
+**

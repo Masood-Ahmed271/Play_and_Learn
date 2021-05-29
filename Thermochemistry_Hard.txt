@@ -1,0 +1,189 @@
+1.
+    Which one of the following thermodynamic quantities is not a state function? 
+    (a) Gibbs free energy 
+    (b) enthalpy 
+    (c) entropy 
+    (d) internal energy 
+    (e) work
+**
+2.
+    At a constant temperature, an ideal gas is compressed from 6.0 liters to 4.0 liters by a constant external pressure of 5.0 atm. How much work is done on the gas? 
+    (a) w = +10 liter atm 
+    (b) w = -10 liter atm 
+    (c) w = +30 liter atm 
+    (d) w = -30 liter atm 
+    (e) The answer cannot be calculated.
+**
+3.
+    A system suffers an increase in internal energy of 80 J and at the same time has 50 J of work done on it. What is the heat change of the system? 
+    (Type you answer in this way .e.g. +50.0 indicating the sign as well to one decimal place with no units)
+**
+4.
+    A 5.000 g sample of methanol, CH3OH, was combusted in the presence of excess oxygen in a bomb calorimeter conaining 4000 g of water. The temperature of the water increased from 24.000 oC to 29.765 oC. The heat capacity of the calorimeter was 2657 J/oC. The specific heat of water is 4.184 J/goC. Calculate E for the reaction in kJ/mol. 
+    (a) -314 kJ/mol 
+    (b) -789 kJ/mol 
+    (c) -716 kJ/mol 
+    (d) -121 kJ/mol 
+    (e) -69.5 kJ/mol
+**
+5.
+    A coffee cup calorimeter having a heat capacity of 451 J/oC was used to measure the heat evolved when 0.0300 mol of NaOH(s) was added to 1000 mL of 0.0300 M HNO3 initially at 23.000 oC. The temperature of the water rose to 23.639 oC. Calculate H (in kJ/mol NaNO3) for this reaction. Assume the specific heat of the final solution is 4.18 J/goC; the density of each solution is 1.00 g/mL; and the addition of solid does not appreciably affect the volume of the solution.
+    HNO3(aq) + NaOH(s) -> NaNO3(aq) + H2O(l)
+    (a) -63.7 kJ/mol 
+    (b) -151 kJ/mol 
+    (c) -2.55 kJ/mol 
+    (d) -81.4 kJ/mol 
+    (e) -98.6 kJ/mol
+**
+6.
+    The Ho for the following reaction at 298 K is -36.4 kJ.
+    1/2 H2(g) + 1/2 Br2(l) -> HBr(g)
+    Calculate Eo at 298 K. The universal gas constant, R, is 8.314 J/mol K. 
+    (a) -35.2 kJ 
+    (b) +35.2 kJ 
+    (c) -36.4 kJ 
+    (d) -37.6 kJ 
+    (e) +37.6 kJ
+**
+7.
+    Calculate the amount of work done for the conversion of 1.00 mole of Ni to Ni(CO)4 in the reaction below, at 75oC. Assume that the gases are ideal. The value of R is 8.31 J/molK.
+    Ni(s) + 4 CO (g) -> Ni(CO)4(g)
+    (a) 1.80 x 103 J 
+    (b) 8.68 x 103 J 
+    (c) -1.80 x 103 J 
+    (d) -8.68 x 103 J 
+    (e) -494 J
+**
+8.
+    All of the following have a standard heat of formation value of zero at 25oC and 1.0 atm except: 
+    (a) N2(g) 
+    (b) Fe(s) 
+    (c) Ne(g) 
+    (d) H(g) 
+    (e) Hg(l)
+**
+9.
+    For which of the following reactions would the Ho for the reaction be labeled Hfo? 
+    (a) Al(s) + 3/2 H2(g) + 3/2 O2(g) -> Al(OH)3(s) 
+    (b) PCl3(g) + 1/2 O2(g) -> POCl3(g) 
+    (c) 1/2 N2O(g) + 1/4 O2(g) -> NO(g) 
+    (d) CaO(s) + SO2(g) -> CaSO3(s) 
+    (e) The ΔHo for all these reactions would be labeled ΔHfo.
+**
+10.
+    Calculate Ho for the reaction: Na2O(s) + SO3(g) -> Na2SO4(g) given the following information:
+
+    (1) Na(s) + H2O(l) -> NaOH(s) + 1/2 H2(g)	-146 kJ
+    (2) Na2SO4(s) + H2O(l) -> 2NaOH(s) + SO3(g)	+418 kJ
+    (3) 2Na2O(s) + 2H2(g) -> 4Na(s) + 2H2O(l)	+259 kJ
+
+    (Type you answer as e.g. +300.2 to 1 decimal place with sign and no units)
+**
+11.
+    Calculate Horxn for the following reaction at 25.0 oC:
+    	Fe3O4(s)	+	CO(g)	-> 3FeO(s)	+	CO2(g)
+    	-1118		-110.5		  -272		    -393.5     ΔHfo (kJ/mol)
+
+    (a) -263 kJ 
+    (b) 54 kJ 
+    (c) 19 kJ 
+    (d) -50 kJ 
+    (e) 109 kJ
+**
+12.
+    Calculate the standard heat of formation, Hfo, for FeS2(s), given the following information:
+    2FeS2(s) + 5O2(g) -> 2FeO(s) + 4SO2(g)
+    ΔHorxn = -1370 kJ 
+    ΔHfo for SO2(g) = -297 kJ/mol 
+    ΔHfo for FeO(s) = -268 kJ/mol
+
+    (a) -177 kJ 
+    (b) -1550 kJ 
+    (c) -774 kJ 
+    (d) -686 kJ 
+    (e) +808 kJ
+**
+13.
+    Estimate the heat of reaction at 298 K for the reaction shown, given the average bond energies below.
+
+    Br2(g) + 3F2(g) -> 2BrF3(g)
+    Bond		Bond Energy
+    Br-Br		192 kJ
+    F-F		    158 kJ
+    Br-F		197 kJ
+
+    (a) -516 kJ 
+    (b) -410 kJ 
+    (c) -611 kJ 
+    (d) -665 kJ 
+    (e) -720 kJ
+**
+14.
+    What is the standard entropy change of the reaction below at 298 K with each compound at the standard pressure?
+    	N2(g)	+	3H2(g)	-> 2NH3(g)
+    	191.5		130.6		192.3	So298 (J/mol K) 	
+
+    (a) -198.7 J/K 
+    (b) 76.32 J/K 
+    (c) 303.2 J/K 
+    (d) -129.7 J/K 
+    (e) 384.7 J/K
+**
+15.
+    The entropy will usually increase when 
+    I. a molecule is broken into two or more smaller molecules. 
+    II. a reaction occurs that results in an increase in the number of moles of gas. 
+    III. a solid changes to a liquid. 
+    IV. a liquid changes to a gas.
+
+    (a) I only 
+    (b) II only 
+    (c) III only 
+    (d) IV only 
+    (e) I, II, III, and IV
+**
+16.
+    Calculate ΔGo for the reaction given the following information:
+    2SO2(g) + O2(g) -> 2SO3(g)
+    ΔGfo for SO2(g) = -300.4 kJ/mol 
+    ΔGfo for SO3(g) = -370.4 kJ/mol
+
+    (Type your answer .e.g. +160.0 with 1 decimal place with sign and no units )
+**
+17.
+    For the following reaction at 25 degree Celsius, Ho = +115 kJ and So = +125 J/K. Calculate ΔGo for the reaction at 25 degree Celsius.
+
+    SBr4(g) -> S(g) + 2Br2(l)
+
+    (a) +152 kJ 
+    (b) -56.7 kJ 
+    (c) +77.8 kJ 
+    (d) +37.1 kJ 
+    (e) -86.2 kJ
+**
+18.
+    The heat of vaporization of freon, CCl2F2, is 17.2 kJ/mol at 25 degree Celsius. What is the change of entropy for one mole of liquid freon when it vaporizes at 25 degree Celsius? (Hint: The vaporization process is at equilibrium and what is true for G at equilibrium?) 
+    (a) 57.7 J/K 
+    (b) 0.688 J/K 
+    (c) 5.13 x 103 kJ/K 
+    (d) 3.16 J/K 
+    (e) 239 J/K
+**
+19.
+    Estimate the boiling point of Br2(l) (H = 30.9 kJ; S = 93.0 J/K).
+    Br2(l) -> Br2(g)
+    (a) 85oC 
+    (b) 373oC 
+    (c) 177oC 
+    (d) 59oC 
+    (e) 44oC
+**
+20.
+    For the reaction, A + B -> C, Ho = +30 kJ; So = +50 J/K.
+    Therefore the reaction is: 
+    (a) spontaneous at all temperatures. 
+    (b) nonspontaneous at all temperatures. 
+    (c) spontaneous at temperatures less than 600 K. 
+    (d) spontaneous at temperatures greater than 600 K. 
+    (e) spontaneous only at 25oC.
+**

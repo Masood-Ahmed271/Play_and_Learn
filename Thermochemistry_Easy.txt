@@ -1,0 +1,128 @@
+1. 
+    Which one is not a state function
+    (a) Internal energy
+    (b) Enthalpy
+    (c) Gibbs free energy
+    (d) Work
+**
+2.
+    If the ΔH value is less than zero than reaction will be
+    (a) Exothermic
+    (b) Endothermic
+    (c) May or may not be Exothermic or Endothermic
+    (d) None of these
+**
+3.
+    If the internal energy of the system is increased
+    (a) Change in state of the system is increased
+    (b) The temperature of the system may rise
+    (c) The chemical reaction may take place
+    (d) All
+**
+4.
+    Which is true for a spontaneous endothermic process?
+    (a) ΔH<0
+    (b) ΔG<0
+    (c) ΔS<0
+    (d) ΔG>0
+**
+5.
+    A reaction has values of ΔH and ΔS which are both positive. The reaction
+    (a) Is spontaneous
+    (b) Spontaneity is temperature dependent
+    (c) Has an increasing free energy
+    (d) Is non-spontaneous
+**
+6.
+    ________________ is study about energy of a chemical system
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+7.
+    The environment in which a system is studied is
+    (a) State function
+    (b) Phase
+    (c) Surrounding
+    (d) State
+**
+8.
+    Unit of heat in the SI system is
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+9.
+    Anything which depends upon the initial and final state of a system is
+    (a) Environment
+    (b) Surrounding
+    (c) State function
+    (d) Enthalpy
+**
+10.
+    The total energy of a system is
+    (a) P.E + K.E
+    (b) P.E + heat energy
+    (c) K.E + heat energy
+    (d) P.E + mechanical energy
+**
+11.
+    Mathematical form of first law of thermodynamics is
+    (a) ΔH=qp
+    (b) ΔE = q + W
+    (c) ΔE = q x v
+    (d) All of the above
+**
+12.
+    Reaction in which heat evolves is called
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+13.
+    CuSO4 + Zn>>ZnSO4+Cu is
+    (a) Spontaneous reaction
+    (b) Non-spontaneous reaction
+    (c) Endothermic
+    (d) Exothermic
+**
+14.
+    Pumping of water uphill is
+    (a) Spontaneous process
+    (b) Non-spontaneous process
+    (c) Irreversible process
+    (d) Reversible process
+**
+15.
+    State function the macroscopic property of system depends upon
+    (a) Path of reaction
+    (b) Initial state
+    (c) Final state
+    (d) Initial and final state
+**
+16.
+    Which one of the following is a state function?
+    (a) Pressure
+    (b) Temperature
+    (c) Enthalpy
+    (d) All of the above
+**
+17.
+    When enthalpy of reactants is higher than the product then the reaction will be
+    (a) Endothermic
+    (b) Spontaneous
+    (c) Non-spontaneous
+    (d) Exothermic
+**
+18.
+    Enthalpy of a reaction can be measured by
+    (Type you answer. If more than 1 word, add '-' between each word .e.g. this-is-how)
+**
+19.
+    Enthalpy of combustion for food fuel and other compounds can be measured accurately by
+    (a) Glass calorimeter
+    (b) Bomb calorimeter
+    (c) Thermometer
+    (d) Manometer
+**
+20.
+    The lattice energy of NaCl is
+    (a) +787 KJ/mole
+    (b) -787 J/mole
+    (c) 780 KJ/mole
+    (d) 790 KJ/mole
+**
